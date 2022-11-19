@@ -1,0 +1,65 @@
+{
+  "name": "LILY #448",
+  "symbol": "LILY",
+  "description": "Evolve, Plug in, Switch on, Join the Hunt & Stake your Claim on the Future - Now. Bounty Hunters are a collection of 8000 unique NFT's on the solana blockchain",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https%3A%2F%2Fbafybeidrvq2cf77z3i3y2o36i37sy62lgbg22csiy5xof6sjs7fzh2ldli.ipfs.nftstorage.link%2F9487.png%3Fext%3Dpng",
+  "attributes": [
+ {
+      "trait_type": "Type",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "None"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Andro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Focus"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Toothpick"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dragon"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": ""
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Afro"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Cap Strap"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "None"
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
